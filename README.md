@@ -1,10 +1,11 @@
-### Operating Procedure for the Machine
-
+# Operating Procedure for the Machine  
+[Final Report](https://docs.google.com/document/d/1663F3_ueJS9UGW88TEsQu9kWBfpubMaWPt4RremIK-0/edit?tab=t.0)  
 The following procedure outlines the operating procedure. 
 
-1. Connect all wires and Arduino Mega 2560 according to master electrical diagram A.7.1.  
-2. Compile and upload full_workflow.ide sketch in Arduino.ide software (full sketch on website).  
-3. Open serial monitor at 115200 baud.  
+1. Connect all wires and Arduino Mega 2560 according to master electrical diagram A.7.1 on the final report.  
+
+3. Compile and upload full_workflow.ide sketch in Arduino.ide software.  
+4. Open serial monitor at 115200 baud.  
 Immediately, this prompt will appear:
 
 <img width="857" height="83" alt="Screenshot 2025-07-26 at 5 15 15 PM" src="https://github.com/user-attachments/assets/563b62ca-288e-49a3-8144-7efa49275248" />  
